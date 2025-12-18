@@ -24,4 +24,4 @@ A modern **animated hero section** built with **React**, **Framer Motion**, and 
 - **React Icons**
 
 ---
-![Harley Bikes Hero](./images/main.png)
+![Harley Bikes Hero](/images/main.png)
